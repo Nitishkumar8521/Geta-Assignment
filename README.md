@@ -113,6 +113,14 @@ npm run dev
 | POST   | /user/register          |  Register a new user |
 | POST   | /user/login             |  Login and get token |
 
+### 📸 Screenshots
+#### 🛠 User 
+- ##### 🧍 Landing Page
+![App Screenshot](https://github.com/Nitishkumar8521/Geta-Assignment/blob/main/home.jpg?raw=true)
+- ##### 🛍️ Login Page
+![App Screenshot](https://github.com/Nitishkumar8521/Geta-Assignment/blob/main/login.jpg?raw=true)
+- ##### 📦 Register Page
+![App Screenshot](https://github.com/Nitishkumar8521/Geta-Assignment/blob/main/reg.jpg?raw=true)
 
 ### 👤Author
 
